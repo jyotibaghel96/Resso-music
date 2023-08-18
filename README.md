@@ -1,2 +1,2 @@
 # Resso-music
-Resso is a music application
+Resso is a music application..
